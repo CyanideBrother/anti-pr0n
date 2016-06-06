@@ -2,7 +2,7 @@
 # https://www.reddit.com/r/NoFap/comments/4iinvs/how_to_block_pr0n_triple_protectionhard_mode/
 ##################################
 # anti-pr0n list by CyanideBrother
-# updated 30.05.2016
+# updated 06.06.2016
 ##################################
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 000freeproxy.com
@@ -50,6 +50,7 @@
 0.0.0.0 18girlssex.com
 0.0.0.0 18peektube.com
 0.0.0.0 18porno.tv
+0.0.0.0 18pornotv.com
 0.0.0.0 18pornotv.net
 0.0.0.0 18shuo.com
 0.0.0.0 18stki.pl
@@ -190,6 +191,7 @@
 0.0.0.0 4proxy.us
 0.0.0.0 4sex4.com
 0.0.0.0 4sexwebcams.com
+0.0.0.0 4totalsex.com
 0.0.0.0 4tube.com
 0.0.0.0 4urbrowsing.info
 0.0.0.0 5.hidemyass.com
@@ -227,6 +229,7 @@
 0.0.0.0 69-sexgames.com
 0.0.0.0 69-webcams.com
 0.0.0.0 69.media.tumblr.com
+0.0.0.0 69sexporn.com
 0.0.0.0 69teentube.com
 0.0.0.0 6eez.net
 0.0.0.0 6xxxtube.com
@@ -1683,6 +1686,7 @@
 0.0.0.0 cdn.18girlssex.com
 0.0.0.0 cdn.18peektube.com
 0.0.0.0 cdn.18porno.tv
+0.0.0.0 cdn.18pornotv.com
 0.0.0.0 cdn.18pornotv.net
 0.0.0.0 cdn.18stki.pl
 0.0.0.0 cdn.18tube.xxx
@@ -1742,11 +1746,13 @@
 0.0.0.0 cdn.4kpornwatch.com
 0.0.0.0 cdn.4sex4.com
 0.0.0.0 cdn.4sexwebcams.com
+0.0.0.0 cdn.4totalsex.com
 0.0.0.0 cdn.4tube.com
 0.0.0.0 cdn.5starangels.com
 0.0.0.0 cdn.5starsporn.com
 0.0.0.0 cdn.69-sexgames.com
 0.0.0.0 cdn.69-webcams.com
+0.0.0.0 cdn.69sexporn.com
 0.0.0.0 cdn.69teentube.com
 0.0.0.0 cdn.6eez.net
 0.0.0.0 cdn.6xxxtube.com
@@ -3215,6 +3221,7 @@
 0.0.0.0 cdn.elegantangelvod.com
 0.0.0.0 cdn.elenaangel.canalblog.com
 0.0.0.0 cdn.elephantlist.com
+0.0.0.0 cdn.elephanttube.com
 0.0.0.0 cdn.elisitas.angelfire.com
 0.0.0.0 cdn.elite-forum.org
 0.0.0.0 cdn.elite.sextracker.com
@@ -3787,6 +3794,7 @@
 0.0.0.0 cdn.ggurls.com
 0.0.0.0 cdn.ghettotube.com
 0.0.0.0 cdn.ghostvidstube.com
+0.0.0.0 cdn.gianttube.com
 0.0.0.0 cdn.gif-porn.com
 0.0.0.0 cdn.gif-porn.net
 0.0.0.0 cdn.giffies.com
@@ -3915,6 +3923,7 @@
 0.0.0.0 cdn.hclips.com
 0.0.0.0 cdn.hd-area.org
 0.0.0.0 cdn.hd-load.org
+0.0.0.0 cdn.hd-sexclub.com
 0.0.0.0 cdn.hd-tube-porn.com
 0.0.0.0 cdn.hd-world.org
 0.0.0.0 cdn.hdadult.xxx
@@ -3935,6 +3944,7 @@
 0.0.0.0 cdn.hdstream.ws
 0.0.0.0 cdn.hdvintagetube.com
 0.0.0.0 cdn.hdx.to
+0.0.0.0 cdn.hdxvideo.org
 0.0.0.0 cdn.hdxxx.me
 0.0.0.0 cdn.hdzog.com
 0.0.0.0 cdn.heartfeltangels.com
@@ -4036,6 +4046,7 @@
 0.0.0.0 cdn.hostave4.net
 0.0.0.0 cdn.hosted.met-art.com
 0.0.0.0 cdn.hostedads.realitykings.com
+0.0.0.0 cdn.hostedtube.com
 0.0.0.0 cdn.hosting.sextracker.com
 0.0.0.0 cdn.hosting01.hotchyx.com
 0.0.0.0 cdn.hot-board.net
@@ -4073,6 +4084,7 @@
 0.0.0.0 cdn.hotpornshow.com
 0.0.0.0 cdn.hotpositions.tumblr.com
 0.0.0.0 cdn.hotsaunababes.info
+0.0.0.0 cdn.hotsexmodeltv.net
 0.0.0.0 cdn.hotsexmodeltv.org
 0.0.0.0 cdn.hotshemalewebcams.com
 0.0.0.0 cdn.hotsologirlz.net
@@ -4126,6 +4138,8 @@
 0.0.0.0 cdn.ibannerx.com
 0.0.0.0 cdn.icams.com
 0.0.0.0 cdn.icanhazchat.com
+0.0.0.0 cdn.icebn.com
+0.0.0.0 cdn.iceporn.com
 0.0.0.0 cdn.ichan.org
 0.0.0.0 cdn.icoodvd.com
 0.0.0.0 cdn.icoonet.com
@@ -4407,6 +4421,7 @@
 0.0.0.0 cdn.kastit.com
 0.0.0.0 cdn.kat.cr
 0.0.0.0 cdn.katestube.com
+0.0.0.0 cdn.kazatube.com
 0.0.0.0 cdn.keandra.com
 0.0.0.0 cdn.keep2share.cc
 0.0.0.0 cdn.keezlive.com
@@ -4459,6 +4474,7 @@
 0.0.0.0 cdn.l-virgin.us
 0.0.0.0 cdn.l-virgin.ws
 0.0.0.0 cdn.l.socialsexnetwork.net
+0.0.0.0 cdn.l3.movies.hostedtube.com
 0.0.0.0 cdn.labatidora.net
 0.0.0.0 cdn.lacynylon.blogtur.com
 0.0.0.0 cdn.ladiesofjuarez.com
@@ -4953,6 +4969,7 @@
 0.0.0.0 cdn.nastydollars.com
 0.0.0.0 cdn.nastypornostars.com
 0.0.0.0 cdn.nastyrat.tv
+0.0.0.0 cdn.nastyvideotube.com
 0.0.0.0 cdn.nathaliediangelo.com
 0.0.0.0 cdn.nats.castingcouch-hd.com
 0.0.0.0 cdn.nats.goldloot.com
@@ -5484,6 +5501,7 @@
 0.0.0.0 cdn.pornmaxim.com
 0.0.0.0 cdn.pornmd.com
 0.0.0.0 cdn.pornmvz.com
+0.0.0.0 cdn.porno--porno.com
 0.0.0.0 cdn.porno-disney.com
 0.0.0.0 cdn.porno-magnet.com
 0.0.0.0 cdn.porno-maniac.net
@@ -5558,6 +5576,7 @@
 0.0.0.0 cdn.porntubeclipz.com
 0.0.0.0 cdn.porntubedirect.info
 0.0.0.0 cdn.porntubemoviez.com
+0.0.0.0 cdn.porntuben.com
 0.0.0.0 cdn.porntubese.com
 0.0.0.0 cdn.porntubestreet.com
 0.0.0.0 cdn.porntubesurf.com
@@ -6570,6 +6589,7 @@
 0.0.0.0 cdn.triplexposure.com
 0.0.0.0 cdn.trueangels.com
 0.0.0.0 cdn.truecash.com
+0.0.0.0 cdn.tryboobs.com
 0.0.0.0 cdn.tsdreamangel.com
 0.0.0.0 cdn.tuakcba.angelfire.com
 0.0.0.0 cdn.tub.com
@@ -6602,6 +6622,7 @@
 0.0.0.0 cdn.tubepornclassic.com
 0.0.0.0 cdn.tubepornstars.com
 0.0.0.0 cdn.tubepornteen.com
+0.0.0.0 cdn.tubepornx.com
 0.0.0.0 cdn.tubeq.xxx
 0.0.0.0 cdn.tuberip.com
 0.0.0.0 cdn.tubesexes.com
@@ -7054,6 +7075,7 @@
 0.0.0.0 cdn.x-videoz.org
 0.0.0.0 cdn.x.teenssites.net
 0.0.0.0 cdn.x18tube.com
+0.0.0.0 cdn.x365.sex
 0.0.0.0 cdn.x3xtube.com
 0.0.0.0 cdn.xafohet.angelfire.com
 0.0.0.0 cdn.xangels.canalblog.com
@@ -7918,6 +7940,7 @@
 0.0.0.0 elegantangelvod.com
 0.0.0.0 elenaangel.canalblog.com
 0.0.0.0 elephantlist.com
+0.0.0.0 elephanttube.com
 0.0.0.0 elisitas.angelfire.com
 0.0.0.0 elite-forum.org
 0.0.0.0 elite.sextracker.com
@@ -8677,6 +8700,7 @@
 0.0.0.0 ghettotube.com
 0.0.0.0 ghostproxy.eu
 0.0.0.0 ghostvidstube.com
+0.0.0.0 gianttube.com
 0.0.0.0 gif-porn.com
 0.0.0.0 gif-porn.net
 0.0.0.0 giffies.com
@@ -8839,6 +8863,7 @@
 0.0.0.0 hclips.com
 0.0.0.0 hd-area.org
 0.0.0.0 hd-load.org
+0.0.0.0 hd-sexclub.com
 0.0.0.0 hd-tube-porn.com
 0.0.0.0 hd-world.org
 0.0.0.0 hdadult.xxx
@@ -8859,6 +8884,7 @@
 0.0.0.0 hdstream.ws
 0.0.0.0 hdvintagetube.com
 0.0.0.0 hdx.to
+0.0.0.0 hdxvideo.org
 0.0.0.0 hdxxx.me
 0.0.0.0 hdzog.com
 0.0.0.0 he.m.xhamster.com
@@ -9033,6 +9059,7 @@
 0.0.0.0 hostave4.net
 0.0.0.0 hosted.met-art.com
 0.0.0.0 hostedads.realitykings.com
+0.0.0.0 hostedtube.com
 0.0.0.0 hosting.sextracker.com
 0.0.0.0 hosting01.hotchyx.com
 0.0.0.0 hot-board.net
@@ -9071,6 +9098,7 @@
 0.0.0.0 hotpornshow.com
 0.0.0.0 hotpositions.tumblr.com
 0.0.0.0 hotsaunababes.info
+0.0.0.0 hotsexmodeltv.net
 0.0.0.0 hotsexmodeltv.org
 0.0.0.0 hotshemalewebcams.com
 0.0.0.0 hotsologirlz.net
@@ -9148,8 +9176,10 @@
 0.0.0.0 ibannerx.com
 0.0.0.0 icams.com
 0.0.0.0 icanhazchat.com
+0.0.0.0 icebn.com
 0.0.0.0 icebre4ker.appspot.com
 0.0.0.0 icecool1987.appspot.com
+0.0.0.0 iceporn.com
 0.0.0.0 ichan.org
 0.0.0.0 icitek.com
 0.0.0.0 icoodvd.com
@@ -9218,8 +9248,10 @@
 0.0.0.0 img2.hotcartoonstore.com
 0.0.0.0 img24.org
 0.0.0.0 img3.hotcartoonstore.com
+0.0.0.0 img4u.tumblr.com
 0.0.0.0 imgbox.com
 0.0.0.0 imgonoff.tumblr.com
+0.0.0.0 imgontop.tumblr.com
 0.0.0.0 imgtaxi.com
 0.0.0.0 imgtornado.com
 0.0.0.0 imlive.com
@@ -9282,6 +9314,7 @@
 0.0.0.0 invideo.ero-advertising.com
 0.0.0.0 invisiblesurf.review
 0.0.0.0 invisivel.606h.net
+0.0.0.0 ip14931562.ahcdn.com
 0.0.0.0 ipadporn.com
 0.0.0.0 ipbuzz.net
 0.0.0.0 ipconnect.info
@@ -9501,6 +9534,7 @@
 0.0.0.0 katalogist.com
 0.0.0.0 katestube.com
 0.0.0.0 katonetwork.com
+0.0.0.0 kazatube.com
 0.0.0.0 keandra.com
 0.0.0.0 keep-it.info
 0.0.0.0 keep2share.cc
@@ -9795,6 +9829,7 @@
 0.0.0.0 m.18girlssex.com
 0.0.0.0 m.18peektube.com
 0.0.0.0 m.18porno.tv
+0.0.0.0 m.18pornotv.com
 0.0.0.0 m.18pornotv.net
 0.0.0.0 m.18stki.pl
 0.0.0.0 m.18tube.xxx
@@ -9859,6 +9894,7 @@
 0.0.0.0 m.4kpornwatch.com
 0.0.0.0 m.4sex4.com
 0.0.0.0 m.4sexwebcams.com
+0.0.0.0 m.4totalsex.com
 0.0.0.0 m.4tube.com
 0.0.0.0 m.5.hxcdn.com
 0.0.0.0 m.5starangels.com
@@ -9866,6 +9902,7 @@
 0.0.0.0 m.6.hxcdn.com
 0.0.0.0 m.69-sexgames.com
 0.0.0.0 m.69-webcams.com
+0.0.0.0 m.69sexporn.com
 0.0.0.0 m.69teentube.com
 0.0.0.0 m.6eez.net
 0.0.0.0 m.6xxxtube.com
@@ -11336,6 +11373,7 @@
 0.0.0.0 m.elegantangelvod.com
 0.0.0.0 m.elenaangel.canalblog.com
 0.0.0.0 m.elephantlist.com
+0.0.0.0 m.elephanttube.com
 0.0.0.0 m.elisitas.angelfire.com
 0.0.0.0 m.elite-forum.org
 0.0.0.0 m.elite.sextracker.com
@@ -11908,6 +11946,7 @@
 0.0.0.0 m.ggurls.com
 0.0.0.0 m.ghettotube.com
 0.0.0.0 m.ghostvidstube.com
+0.0.0.0 m.gianttube.com
 0.0.0.0 m.gif-porn.com
 0.0.0.0 m.gif-porn.net
 0.0.0.0 m.giffies.com
@@ -12036,6 +12075,7 @@
 0.0.0.0 m.hclips.com
 0.0.0.0 m.hd-area.org
 0.0.0.0 m.hd-load.org
+0.0.0.0 m.hd-sexclub.com
 0.0.0.0 m.hd-tube-porn.com
 0.0.0.0 m.hd-world.org
 0.0.0.0 m.hdadult.xxx
@@ -12056,6 +12096,7 @@
 0.0.0.0 m.hdstream.ws
 0.0.0.0 m.hdvintagetube.com
 0.0.0.0 m.hdx.to
+0.0.0.0 m.hdxvideo.org
 0.0.0.0 m.hdxxx.me
 0.0.0.0 m.hdzog.com
 0.0.0.0 m.heartfeltangels.com
@@ -12157,6 +12198,7 @@
 0.0.0.0 m.hostave4.net
 0.0.0.0 m.hosted.met-art.com
 0.0.0.0 m.hostedads.realitykings.com
+0.0.0.0 m.hostedtube.com
 0.0.0.0 m.hosting.sextracker.com
 0.0.0.0 m.hosting01.hotchyx.com
 0.0.0.0 m.hot-board.net
@@ -12194,6 +12236,7 @@
 0.0.0.0 m.hotpornshow.com
 0.0.0.0 m.hotpositions.tumblr.com
 0.0.0.0 m.hotsaunababes.info
+0.0.0.0 m.hotsexmodeltv.net
 0.0.0.0 m.hotsexmodeltv.org
 0.0.0.0 m.hotshemalewebcams.com
 0.0.0.0 m.hotsologirlz.net
@@ -12247,6 +12290,8 @@
 0.0.0.0 m.ibannerx.com
 0.0.0.0 m.icams.com
 0.0.0.0 m.icanhazchat.com
+0.0.0.0 m.icebn.com
+0.0.0.0 m.iceporn.com
 0.0.0.0 m.ichan.org
 0.0.0.0 m.icoodvd.com
 0.0.0.0 m.icoonet.com
@@ -12528,6 +12573,7 @@
 0.0.0.0 m.kastit.com
 0.0.0.0 m.kat.cr
 0.0.0.0 m.katestube.com
+0.0.0.0 m.kazatube.com
 0.0.0.0 m.keandra.com
 0.0.0.0 m.keep2share.cc
 0.0.0.0 m.keezlive.com
@@ -13074,6 +13120,7 @@
 0.0.0.0 m.nastydollars.com
 0.0.0.0 m.nastypornostars.com
 0.0.0.0 m.nastyrat.tv
+0.0.0.0 m.nastyvideotube.com
 0.0.0.0 m.nathaliediangelo.com
 0.0.0.0 m.nats.castingcouch-hd.com
 0.0.0.0 m.nats.goldloot.com
@@ -13605,6 +13652,7 @@
 0.0.0.0 m.pornmaxim.com
 0.0.0.0 m.pornmd.com
 0.0.0.0 m.pornmvz.com
+0.0.0.0 m.porno--porno.com
 0.0.0.0 m.porno-disney.com
 0.0.0.0 m.porno-magnet.com
 0.0.0.0 m.porno-maniac.net
@@ -13679,6 +13727,7 @@
 0.0.0.0 m.porntubeclipz.com
 0.0.0.0 m.porntubedirect.info
 0.0.0.0 m.porntubemoviez.com
+0.0.0.0 m.porntuben.com
 0.0.0.0 m.porntubese.com
 0.0.0.0 m.porntubestreet.com
 0.0.0.0 m.porntubesurf.com
@@ -14691,6 +14740,7 @@
 0.0.0.0 m.triplexposure.com
 0.0.0.0 m.trueangels.com
 0.0.0.0 m.truecash.com
+0.0.0.0 m.tryboobs.com
 0.0.0.0 m.tsdreamangel.com
 0.0.0.0 m.tuakcba.angelfire.com
 0.0.0.0 m.tub.com
@@ -14723,6 +14773,7 @@
 0.0.0.0 m.tubepornclassic.com
 0.0.0.0 m.tubepornstars.com
 0.0.0.0 m.tubepornteen.com
+0.0.0.0 m.tubepornx.com
 0.0.0.0 m.tubeq.xxx
 0.0.0.0 m.tuberip.com
 0.0.0.0 m.tubesexes.com
@@ -15175,6 +15226,7 @@
 0.0.0.0 m.x-videoz.org
 0.0.0.0 m.x.teenssites.net
 0.0.0.0 m.x18tube.com
+0.0.0.0 m.x365.sex
 0.0.0.0 m.x3xtube.com
 0.0.0.0 m.xafohet.angelfire.com
 0.0.0.0 m.xangels.canalblog.com
@@ -15541,6 +15593,7 @@
 0.0.0.0 media.18girlssex.com
 0.0.0.0 media.18peektube.com
 0.0.0.0 media.18porno.tv
+0.0.0.0 media.18pornotv.com
 0.0.0.0 media.18pornotv.net
 0.0.0.0 media.18stki.pl
 0.0.0.0 media.18tube.xxx
@@ -15605,6 +15658,7 @@
 0.0.0.0 media.4kpornwatch.com
 0.0.0.0 media.4sex4.com
 0.0.0.0 media.4sexwebcams.com
+0.0.0.0 media.4totalsex.com
 0.0.0.0 media.4tube.com
 0.0.0.0 media.5.hxcdn.com
 0.0.0.0 media.5starangels.com
@@ -15612,6 +15666,7 @@
 0.0.0.0 media.6.hxcdn.com
 0.0.0.0 media.69-sexgames.com
 0.0.0.0 media.69-webcams.com
+0.0.0.0 media.69sexporn.com
 0.0.0.0 media.69teentube.com
 0.0.0.0 media.6eez.net
 0.0.0.0 media.6xxxtube.com
@@ -17081,6 +17136,7 @@
 0.0.0.0 media.elegantangelvod.com
 0.0.0.0 media.elenaangel.canalblog.com
 0.0.0.0 media.elephantlist.com
+0.0.0.0 media.elephanttube.com
 0.0.0.0 media.elisitas.angelfire.com
 0.0.0.0 media.elite-forum.org
 0.0.0.0 media.elite.sextracker.com
@@ -17653,6 +17709,7 @@
 0.0.0.0 media.ggurls.com
 0.0.0.0 media.ghettotube.com
 0.0.0.0 media.ghostvidstube.com
+0.0.0.0 media.gianttube.com
 0.0.0.0 media.gif-porn.com
 0.0.0.0 media.gif-porn.net
 0.0.0.0 media.giffies.com
@@ -17781,6 +17838,7 @@
 0.0.0.0 media.hclips.com
 0.0.0.0 media.hd-area.org
 0.0.0.0 media.hd-load.org
+0.0.0.0 media.hd-sexclub.com
 0.0.0.0 media.hd-tube-porn.com
 0.0.0.0 media.hd-world.org
 0.0.0.0 media.hdadult.xxx
@@ -17801,6 +17859,7 @@
 0.0.0.0 media.hdstream.ws
 0.0.0.0 media.hdvintagetube.com
 0.0.0.0 media.hdx.to
+0.0.0.0 media.hdxvideo.org
 0.0.0.0 media.hdxxx.me
 0.0.0.0 media.hdzog.com
 0.0.0.0 media.heartfeltangels.com
@@ -17902,6 +17961,7 @@
 0.0.0.0 media.hostave4.net
 0.0.0.0 media.hosted.met-art.com
 0.0.0.0 media.hostedads.realitykings.com
+0.0.0.0 media.hostedtube.com
 0.0.0.0 media.hosting.sextracker.com
 0.0.0.0 media.hosting01.hotchyx.com
 0.0.0.0 media.hot-board.net
@@ -17939,6 +17999,7 @@
 0.0.0.0 media.hotpornshow.com
 0.0.0.0 media.hotpositions.tumblr.com
 0.0.0.0 media.hotsaunababes.info
+0.0.0.0 media.hotsexmodeltv.net
 0.0.0.0 media.hotsexmodeltv.org
 0.0.0.0 media.hotshemalewebcams.com
 0.0.0.0 media.hotsologirlz.net
@@ -17992,6 +18053,8 @@
 0.0.0.0 media.ibannerx.com
 0.0.0.0 media.icams.com
 0.0.0.0 media.icanhazchat.com
+0.0.0.0 media.icebn.com
+0.0.0.0 media.iceporn.com
 0.0.0.0 media.ichan.org
 0.0.0.0 media.icoodvd.com
 0.0.0.0 media.icoonet.com
@@ -18274,6 +18337,7 @@
 0.0.0.0 media.kastit.com
 0.0.0.0 media.kat.cr
 0.0.0.0 media.katestube.com
+0.0.0.0 media.kazatube.com
 0.0.0.0 media.keandra.com
 0.0.0.0 media.keep2share.cc
 0.0.0.0 media.keezlive.com
@@ -18822,6 +18886,7 @@
 0.0.0.0 media.nastydollars.com
 0.0.0.0 media.nastypornostars.com
 0.0.0.0 media.nastyrat.tv
+0.0.0.0 media.nastyvideotube.com
 0.0.0.0 media.nathaliediangelo.com
 0.0.0.0 media.nats.castingcouch-hd.com
 0.0.0.0 media.nats.goldloot.com
@@ -19355,6 +19420,7 @@
 0.0.0.0 media.pornmaxim.com
 0.0.0.0 media.pornmd.com
 0.0.0.0 media.pornmvz.com
+0.0.0.0 media.porno--porno.com
 0.0.0.0 media.porno-disney.com
 0.0.0.0 media.porno-magnet.com
 0.0.0.0 media.porno-maniac.net
@@ -19429,6 +19495,7 @@
 0.0.0.0 media.porntubeclipz.com
 0.0.0.0 media.porntubedirect.info
 0.0.0.0 media.porntubemoviez.com
+0.0.0.0 media.porntuben.com
 0.0.0.0 media.porntubese.com
 0.0.0.0 media.porntubestreet.com
 0.0.0.0 media.porntubesurf.com
@@ -20444,6 +20511,7 @@
 0.0.0.0 media.triplexposure.com
 0.0.0.0 media.trueangels.com
 0.0.0.0 media.truecash.com
+0.0.0.0 media.tryboobs.com
 0.0.0.0 media.tsdreamangel.com
 0.0.0.0 media.tuakcba.angelfire.com
 0.0.0.0 media.tub.com
@@ -20476,6 +20544,7 @@
 0.0.0.0 media.tubepornclassic.com
 0.0.0.0 media.tubepornstars.com
 0.0.0.0 media.tubepornteen.com
+0.0.0.0 media.tubepornx.com
 0.0.0.0 media.tubeq.xxx
 0.0.0.0 media.tuberip.com
 0.0.0.0 media.tubesexes.com
@@ -20928,6 +20997,7 @@
 0.0.0.0 media.x-videoz.org
 0.0.0.0 media.x.teenssites.net
 0.0.0.0 media.x18tube.com
+0.0.0.0 media.x365.sex
 0.0.0.0 media.x3xtube.com
 0.0.0.0 media.xafohet.angelfire.com
 0.0.0.0 media.xangels.canalblog.com
@@ -21236,6 +21306,7 @@
 0.0.0.0 mexicanvirgin.com
 0.0.0.0 mfp.hostwindsor.com
 0.0.0.0 mgbile.xhamster.com
+0.0.0.0 mht.cdn.fleshservers.net
 0.0.0.0 mianosm-proxy.appspot.com
 0.0.0.0 michelleyimvn.com
 0.0.0.0 mikangel.free.fr
@@ -21478,6 +21549,7 @@
 0.0.0.0 nastydollars.com
 0.0.0.0 nastypornostars.com
 0.0.0.0 nastyrat.tv
+0.0.0.0 nastyvideotube.com
 0.0.0.0 nathaliediangelo.com
 0.0.0.0 nats.castingcouch-hd.com
 0.0.0.0 nats.goldloot.com
@@ -21942,6 +22014,7 @@
 0.0.0.0 pincelebs.net
 0.0.0.0 pinguporn.com
 0.0.0.0 pinkbabes.net
+0.0.0.0 pinkmywordxxx.tumblr.com
 0.0.0.0 pinkvisualhdgalleries.com
 0.0.0.0 pinkvisualpad.com
 0.0.0.0 pinkwebcam.com
@@ -22137,6 +22210,7 @@
 0.0.0.0 pornmd.com
 0.0.0.0 pornmobile.xhamster.com
 0.0.0.0 pornmvz.com
+0.0.0.0 porno--porno.com
 0.0.0.0 porno-disney.com
 0.0.0.0 porno-magnet.com
 0.0.0.0 porno-maniac.net
@@ -22211,6 +22285,7 @@
 0.0.0.0 porntubeclipz.com
 0.0.0.0 porntubedirect.info
 0.0.0.0 porntubemoviez.com
+0.0.0.0 porntuben.com
 0.0.0.0 porntubese.com
 0.0.0.0 porntubestreet.com
 0.0.0.0 porntubesurf.com
@@ -23370,6 +23445,7 @@
 0.0.0.0 static.kissteenclub.com
 0.0.0.0 static.rarbg.com
 0.0.0.0 static.sex-explorer.com
+0.0.0.0 static.tumblr.com
 0.0.0.0 static.wickedcdn.com
 0.0.0.0 static.xvideos.com
 0.0.0.0 statm.the-adult-company.com
@@ -23920,6 +23996,7 @@
 0.0.0.0 triplexposure.com
 0.0.0.0 trueangels.com
 0.0.0.0 truecash.com
+0.0.0.0 tryboobs.com
 0.0.0.0 tsdreamangel.com
 0.0.0.0 tuakcba.angelfire.com
 0.0.0.0 tub.com
@@ -23952,6 +24029,7 @@
 0.0.0.0 tubepornclassic.com
 0.0.0.0 tubepornstars.com
 0.0.0.0 tubepornteen.com
+0.0.0.0 tubepornx.com
 0.0.0.0 tubeprox.com
 0.0.0.0 tubeq.xxx
 0.0.0.0 tuberip.com
@@ -24687,6 +24765,7 @@
 0.0.0.0 www.18girlssex.com
 0.0.0.0 www.18peektube.com
 0.0.0.0 www.18porno.tv
+0.0.0.0 www.18pornotv.com
 0.0.0.0 www.18pornotv.net
 0.0.0.0 www.18shuo.com
 0.0.0.0 www.18stki.pl
@@ -24789,6 +24868,7 @@
 0.0.0.0 www.4proxy.us
 0.0.0.0 www.4sex4.com
 0.0.0.0 www.4sexwebcams.com
+0.0.0.0 www.4totalsex.com
 0.0.0.0 www.4tube.com
 0.0.0.0 www.4urbrowsing.info
 0.0.0.0 www.5.hidemyass.com
@@ -24802,6 +24882,7 @@
 0.0.0.0 www.678proxy.ml
 0.0.0.0 www.69-sexgames.com
 0.0.0.0 www.69-webcams.com
+0.0.0.0 www.69sexporn.com
 0.0.0.0 www.69teentube.com
 0.0.0.0 www.6eez.net
 0.0.0.0 www.6xxxtube.com
@@ -26614,6 +26695,7 @@
 0.0.0.0 www.elegantangelvod.com
 0.0.0.0 www.elenaangel.canalblog.com
 0.0.0.0 www.elephantlist.com
+0.0.0.0 www.elephanttube.com
 0.0.0.0 www.elisitas.angelfire.com
 0.0.0.0 www.elite-forum.org
 0.0.0.0 www.elite.sextracker.com
@@ -27349,6 +27431,7 @@
 0.0.0.0 www.ghettotube.com
 0.0.0.0 www.ghostproxy.eu
 0.0.0.0 www.ghostvidstube.com
+0.0.0.0 www.gianttube.com
 0.0.0.0 www.gif-porn.com
 0.0.0.0 www.gif-porn.net
 0.0.0.0 www.giffies.com
@@ -27510,6 +27593,7 @@
 0.0.0.0 www.hclips.com
 0.0.0.0 www.hd-area.org
 0.0.0.0 www.hd-load.org
+0.0.0.0 www.hd-sexclub.com
 0.0.0.0 www.hd-tube-porn.com
 0.0.0.0 www.hd-world.org
 0.0.0.0 www.hdadult.xxx
@@ -27530,6 +27614,7 @@
 0.0.0.0 www.hdstream.ws
 0.0.0.0 www.hdvintagetube.com
 0.0.0.0 www.hdx.to
+0.0.0.0 www.hdxvideo.org
 0.0.0.0 www.hdxxx.me
 0.0.0.0 www.hdzog.com
 0.0.0.0 www.heartfeltangels.com
@@ -27703,6 +27788,7 @@
 0.0.0.0 www.hostave4.net
 0.0.0.0 www.hosted.met-art.com
 0.0.0.0 www.hostedads.realitykings.com
+0.0.0.0 www.hostedtube.com
 0.0.0.0 www.hosting.sextracker.com
 0.0.0.0 www.hosting01.hotchyx.com
 0.0.0.0 www.hot-board.net
@@ -27741,6 +27827,7 @@
 0.0.0.0 www.hotpornshow.com
 0.0.0.0 www.hotpositions.tumblr.com
 0.0.0.0 www.hotsaunababes.info
+0.0.0.0 www.hotsexmodeltv.net
 0.0.0.0 www.hotsexmodeltv.org
 0.0.0.0 www.hotshemalewebcams.com
 0.0.0.0 www.hotsologirlz.net
@@ -27805,8 +27892,10 @@
 0.0.0.0 www.ibannerx.com
 0.0.0.0 www.icams.com
 0.0.0.0 www.icanhazchat.com
+0.0.0.0 www.icebn.com
 0.0.0.0 www.icebre4ker.appspot.com
 0.0.0.0 www.icecool1987.appspot.com
+0.0.0.0 www.iceporn.com
 0.0.0.0 www.ichan.org
 0.0.0.0 www.icitek.com
 0.0.0.0 www.icoodvd.com
@@ -28156,6 +28245,7 @@
 0.0.0.0 www.katalogist.com
 0.0.0.0 www.katestube.com
 0.0.0.0 www.katonetwork.com
+0.0.0.0 www.kazatube.com
 0.0.0.0 www.keandra.com
 0.0.0.0 www.keep-it.info
 0.0.0.0 www.keep2share.cc
@@ -28837,6 +28927,7 @@
 0.0.0.0 www.nastydollars.com
 0.0.0.0 www.nastypornostars.com
 0.0.0.0 www.nastyrat.tv
+0.0.0.0 www.nastyvideotube.com
 0.0.0.0 www.nathaliediangelo.com
 0.0.0.0 www.nats.castingcouch-hd.com
 0.0.0.0 www.nats.goldloot.com
@@ -29484,6 +29575,7 @@
 0.0.0.0 www.pornmaxim.com
 0.0.0.0 www.pornmd.com
 0.0.0.0 www.pornmvz.com
+0.0.0.0 www.porno--porno.com
 0.0.0.0 www.porno-disney.com
 0.0.0.0 www.porno-magnet.com
 0.0.0.0 www.porno-maniac.net
@@ -29558,6 +29650,7 @@
 0.0.0.0 www.porntubeclipz.com
 0.0.0.0 www.porntubedirect.info
 0.0.0.0 www.porntubemoviez.com
+0.0.0.0 www.porntuben.com
 0.0.0.0 www.porntubese.com
 0.0.0.0 www.porntubestreet.com
 0.0.0.0 www.porntubesurf.com
@@ -31163,6 +31256,7 @@
 0.0.0.0 www.triplexposure.com
 0.0.0.0 www.trueangels.com
 0.0.0.0 www.truecash.com
+0.0.0.0 www.tryboobs.com
 0.0.0.0 www.tsdreamangel.com
 0.0.0.0 www.tuakcba.angelfire.com
 0.0.0.0 www.tub.com
@@ -31195,6 +31289,7 @@
 0.0.0.0 www.tubepornclassic.com
 0.0.0.0 www.tubepornstars.com
 0.0.0.0 www.tubepornteen.com
+0.0.0.0 www.tubepornx.com
 0.0.0.0 www.tubeprox.com
 0.0.0.0 www.tubeq.xxx
 0.0.0.0 www.tuberip.com
@@ -31901,6 +31996,7 @@
 0.0.0.0 www.x-videoz.org
 0.0.0.0 www.x.teenssites.net
 0.0.0.0 www.x18tube.com
+0.0.0.0 www.x365.sex
 0.0.0.0 www.x3xtube.com
 0.0.0.0 www.x885.com
 0.0.0.0 www.xafohet.angelfire.com
@@ -32237,6 +32333,7 @@
 0.0.0.0 x-videoz.org
 0.0.0.0 x.teenssites.net
 0.0.0.0 x18tube.com
+0.0.0.0 x365.sex
 0.0.0.0 x3xtube.com
 0.0.0.0 x885.com
 0.0.0.0 xafohet.angelfire.com
