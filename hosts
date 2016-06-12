@@ -2,7 +2,7 @@
 # https://www.reddit.com/r/NoFap/comments/4iinvs/how_to_block_pr0n_triple_protectionhard_mode/
 ##################################
 # anti-pr0n list by CyanideBrother
-# updated 09.06.2016
+# updated 12.06.2016
 ##################################
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 000freeproxy.com
@@ -4394,6 +4394,7 @@
 0.0.0.0 cdn.hdporn.to
 0.0.0.0 cdn.hdporn69.com
 0.0.0.0 cdn.hdpornclub.org
+0.0.0.0 cdn.hdporncollections.com
 0.0.0.0 cdn.hdpornflix.org
 0.0.0.0 cdn.hdpornfull.com
 0.0.0.0 cdn.hdpornstar.com
@@ -4950,6 +4951,7 @@
 0.0.0.0 cdn.justporno.nu
 0.0.0.0 cdn.justporno.tv
 0.0.0.0 cdn.justusboys.net
+0.0.0.0 cdn.jwpcdn.com
 0.0.0.0 cdn.k0d3w.tumblr.com
 0.0.0.0 cdn.kagbz.com
 0.0.0.0 cdn.kaotic.com
@@ -5619,6 +5621,7 @@
 0.0.0.0 cdn.myhentaicomics.com
 0.0.0.0 cdn.myhomeclip.com
 0.0.0.0 cdn.myhotsite.net
+0.0.0.0 cdn.myimg4u.tumblr.com
 0.0.0.0 cdn.myiplayground.com
 0.0.0.0 cdn.myjizztube.com
 0.0.0.0 cdn.mykino.to
@@ -10110,6 +10113,7 @@
 0.0.0.0 hdporn.to
 0.0.0.0 hdporn69.com
 0.0.0.0 hdpornclub.org
+0.0.0.0 hdporncollections.com
 0.0.0.0 hdpornflix.org
 0.0.0.0 hdpornfull.com
 0.0.0.0 hdpornstar.com
@@ -10833,6 +10837,7 @@
 0.0.0.0 justproxy.us
 0.0.0.0 justunblockit.com
 0.0.0.0 justusboys.net
+0.0.0.0 jwpcdn.com
 0.0.0.0 k-tunnel.com
 0.0.0.0 k0d3w.tumblr.com
 0.0.0.0 ka-bitch.info
@@ -13760,6 +13765,7 @@
 0.0.0.0 m.hdporn.to
 0.0.0.0 m.hdporn69.com
 0.0.0.0 m.hdpornclub.org
+0.0.0.0 m.hdporncollections.com
 0.0.0.0 m.hdpornflix.org
 0.0.0.0 m.hdpornfull.com
 0.0.0.0 m.hdpornstar.com
@@ -14316,6 +14322,7 @@
 0.0.0.0 m.justporno.nu
 0.0.0.0 m.justporno.tv
 0.0.0.0 m.justusboys.net
+0.0.0.0 m.jwpcdn.com
 0.0.0.0 m.k0d3w.tumblr.com
 0.0.0.0 m.kagbz.com
 0.0.0.0 m.kaotic.com
@@ -14984,6 +14991,7 @@
 0.0.0.0 m.myhentaicomics.com
 0.0.0.0 m.myhomeclip.com
 0.0.0.0 m.myhotsite.net
+0.0.0.0 m.myimg4u.tumblr.com
 0.0.0.0 m.myiplayground.com
 0.0.0.0 m.myjizztube.com
 0.0.0.0 m.mykino.to
@@ -17896,6 +17904,7 @@
 0.0.0.0 mbs.youjizzlive.com
 0.0.0.0 mc-nudes.com
 0.0.0.0 mckeanhmp.com
+0.0.0.0 mcloud.hdporncollections.com
 0.0.0.0 mcrawfordlds.appspot.com
 0.0.0.0 mcstories.com
 0.0.0.0 mdnhinc.com
@@ -20503,6 +20512,7 @@
 0.0.0.0 media.hdporn.to
 0.0.0.0 media.hdporn69.com
 0.0.0.0 media.hdpornclub.org
+0.0.0.0 media.hdporncollections.com
 0.0.0.0 media.hdpornflix.org
 0.0.0.0 media.hdpornfull.com
 0.0.0.0 media.hdpornstar.com
@@ -21060,6 +21070,7 @@
 0.0.0.0 media.justporno.nu
 0.0.0.0 media.justporno.tv
 0.0.0.0 media.justusboys.net
+0.0.0.0 media.jwpcdn.com
 0.0.0.0 media.k0d3w.tumblr.com
 0.0.0.0 media.kagbz.com
 0.0.0.0 media.kaotic.com
@@ -21730,6 +21741,7 @@
 0.0.0.0 media.myhentaicomics.com
 0.0.0.0 media.myhomeclip.com
 0.0.0.0 media.myhotsite.net
+0.0.0.0 media.myimg4u.tumblr.com
 0.0.0.0 media.myiplayground.com
 0.0.0.0 media.myjizztube.com
 0.0.0.0 media.mykino.to
@@ -28048,6 +28060,7 @@
 0.0.0.0 mobile.hdporn.to
 0.0.0.0 mobile.hdporn69.com
 0.0.0.0 mobile.hdpornclub.org
+0.0.0.0 mobile.hdporncollections.com
 0.0.0.0 mobile.hdpornflix.org
 0.0.0.0 mobile.hdpornfull.com
 0.0.0.0 mobile.hdpornstar.com
@@ -28771,6 +28784,7 @@
 0.0.0.0 mobile.justproxy.us
 0.0.0.0 mobile.justunblockit.com
 0.0.0.0 mobile.justusboys.net
+0.0.0.0 mobile.jwpcdn.com
 0.0.0.0 mobile.k-tunnel.com
 0.0.0.0 mobile.k0d3w.tumblr.com
 0.0.0.0 mobile.ka-bitch.info
@@ -29537,6 +29551,7 @@
 0.0.0.0 mobile.myhentaicomics.com
 0.0.0.0 mobile.myhomeclip.com
 0.0.0.0 mobile.myhotsite.net
+0.0.0.0 mobile.myimg4u.tumblr.com
 0.0.0.0 mobile.myiplayground.com
 0.0.0.0 mobile.myjizztube.com
 0.0.0.0 mobile.mykino.to
@@ -33626,6 +33641,7 @@
 0.0.0.0 myhentaicomics.com
 0.0.0.0 myhomeclip.com
 0.0.0.0 myhotsite.net
+0.0.0.0 myimg4u.tumblr.com
 0.0.0.0 myiplayground.com
 0.0.0.0 myjizztube.com
 0.0.0.0 mykino.to
@@ -34090,6 +34106,7 @@
 0.0.0.0 oyundas.org
 0.0.0.0 p-angels.com
 0.0.0.0 p-tunnel.com
+0.0.0.0 p.jwpcdn.com
 0.0.0.0 p.videosz.com
 0.0.0.0 p0rntub3.net
 0.0.0.0 p1-1.xhamster.com
@@ -34422,6 +34439,7 @@
 0.0.0.0 porngames.com
 0.0.0.0 porngifs.com
 0.0.0.0 porngifs.today
+0.0.0.0 porngric.com
 0.0.0.0 pornhan.com
 0.0.0.0 pornhardx.com
 0.0.0.0 pornhd.com
@@ -40386,6 +40404,7 @@
 0.0.0.0 www.hdporn.to
 0.0.0.0 www.hdporn69.com
 0.0.0.0 www.hdpornclub.org
+0.0.0.0 www.hdporncollections.com
 0.0.0.0 www.hdpornflix.org
 0.0.0.0 www.hdpornfull.com
 0.0.0.0 www.hdpornstar.com
@@ -41090,6 +41109,7 @@
 0.0.0.0 www.justproxy.us
 0.0.0.0 www.justunblockit.com
 0.0.0.0 www.justusboys.net
+0.0.0.0 www.jwpcdn.com
 0.0.0.0 www.k-tunnel.com
 0.0.0.0 www.k0d3w.tumblr.com
 0.0.0.0 www.ka-bitch.info
@@ -41878,6 +41898,7 @@
 0.0.0.0 www.myhentaicomics.com
 0.0.0.0 www.myhomeclip.com
 0.0.0.0 www.myhotsite.net
+0.0.0.0 www.myimg4u.tumblr.com
 0.0.0.0 www.myiplayground.com
 0.0.0.0 www.myjizztube.com
 0.0.0.0 www.mykino.to
