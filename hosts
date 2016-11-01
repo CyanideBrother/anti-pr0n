@@ -1,8 +1,7 @@
 # https://www.reddit.com/r/NoFap/
-# https://www.reddit.com/r/NoFap/comments/4iinvs/how_to_block_pr0n_triple_protectionhard_mode/
 ##################################
 # anti-pr0n list by CyanideBrother
-# updated 25.10.2016
+# updated 01.11.2016
 ##################################
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 000freeproxy.com
@@ -799,6 +798,7 @@
 0.0.0.0 allsexblogs.com
 0.0.0.0 allsphere.info
 0.0.0.0 allteeens.com
+0.0.0.0 alluc.ee
 0.0.0.0 allurecash.net
 0.0.0.0 allvirgins.com
 0.0.0.0 almostgay.com
@@ -1770,6 +1770,7 @@
 0.0.0.0 bdsmvideo.reddit.com
 0.0.0.0 bdsmxxxmovies.com
 0.0.0.0 bdsm_nospam.reddit.com
+0.0.0.0 be88.net
 0.0.0.0 beach.reddit.com
 0.0.0.0 beachgirls.reddit.com
 0.0.0.0 beachtoplist.com
@@ -3172,6 +3173,7 @@
 0.0.0.0 cdn.allretrotube.com
 0.0.0.0 cdn.allsexblogs.com
 0.0.0.0 cdn.allteeens.com
+0.0.0.0 cdn.alluc.ee
 0.0.0.0 cdn.allurecash.net
 0.0.0.0 cdn.allvirgins.com
 0.0.0.0 cdn.almostgay.com
@@ -3957,6 +3959,7 @@
 0.0.0.0 cdn.bdsmtubeporn.org
 0.0.0.0 cdn.bdsmtubevideos.com
 0.0.0.0 cdn.bdsmxxxmovies.com
+0.0.0.0 cdn.be88.net
 0.0.0.0 cdn.beachtoplist.com
 0.0.0.0 cdn.beasttracker.net
 0.0.0.0 cdn.beautiful-nude-teens-exposed.tumblr.com
@@ -6903,6 +6906,7 @@
 0.0.0.0 cdn.hpjav.com
 0.0.0.0 cdn.hq-celebrity.com
 0.0.0.0 cdn.hq-celebrity.us.intellitxt.com
+0.0.0.0 cdn.hq-jav.com
 0.0.0.0 cdn.hq-sex-tube.com
 0.0.0.0 cdn.hq69.com
 0.0.0.0 cdn.hqasianxxx.com
@@ -7304,6 +7308,7 @@
 0.0.0.0 cdn.javdm.com
 0.0.0.0 cdn.javdude.com
 0.0.0.0 cdn.javeu.com
+0.0.0.0 cdn.javfind.com
 0.0.0.0 cdn.javfinder.com
 0.0.0.0 cdn.javfor.me
 0.0.0.0 cdn.javfree.org
@@ -7313,22 +7318,27 @@
 0.0.0.0 cdn.javhd720p.net
 0.0.0.0 cdn.javhdfree.net
 0.0.0.0 cdn.javhdx.tv
+0.0.0.0 cdn.javhihi.com
 0.0.0.0 cdn.javhq.net
 0.0.0.0 cdn.javleak.com
 0.0.0.0 cdn.javon.tv
 0.0.0.0 cdn.javonline.tv
+0.0.0.0 cdn.javporn.cc
 0.0.0.0 cdn.javportal.net
 0.0.0.0 cdn.javpub.me
 0.0.0.0 cdn.javsd.net
 0.0.0.0 cdn.javsin.com
 0.0.0.0 cdn.javst.net
 0.0.0.0 cdn.javstreaming.net
+0.0.0.0 cdn.javstreams.org
 0.0.0.0 cdn.javstreams.tv
 0.0.0.0 cdn.javtasty.com
 0.0.0.0 cdn.javtubehd.com
 0.0.0.0 cdn.javun.me
 0.0.0.0 cdn.javuns.com
+0.0.0.0 cdn.javur.com
 0.0.0.0 cdn.javus.net
+0.0.0.0 cdn.javxyz.com
 0.0.0.0 cdn.javzab.com
 0.0.0.0 cdn.jaydenjaymes.puba.com
 0.0.0.0 cdn.jbcam.net
@@ -7915,6 +7925,7 @@
 0.0.0.0 cdn.lighthouseangels.net
 0.0.0.0 cdn.lilangels4u.50megs.com
 0.0.0.0 cdn.lilbabes.com
+0.0.0.0 cdn.lildaughter.com
 0.0.0.0 cdn.lilieetangelina.free.fr
 0.0.0.0 cdn.lilycarter.puba.com
 0.0.0.0 cdn.limetorrents.immunicity.date
@@ -8870,6 +8881,7 @@
 0.0.0.0 cdn.newalbumreleases.unblockmy.host
 0.0.0.0 cdn.newangelicseduction.com
 0.0.0.0 cdn.newbienudes.com
+0.0.0.0 cdn.newcooltube.com
 0.0.0.0 cdn.newestxxx.com
 0.0.0.0 cdn.newgayfuck.com
 0.0.0.0 cdn.newgirlpov.com
@@ -9571,6 +9583,7 @@
 0.0.0.0 cdn.porn8.com
 0.0.0.0 cdn.porn8.tv
 0.0.0.0 cdn.pornaccess.com
+0.0.0.0 cdn.pornaga.com
 0.0.0.0 cdn.pornalized.com
 0.0.0.0 cdn.pornaq.com
 0.0.0.0 cdn.pornarab.porn
@@ -9987,6 +10000,7 @@
 0.0.0.0 cdn.proxfree.pk
 0.0.0.0 cdn.proxite.eu
 0.0.0.0 cdn.proxo.org
+0.0.0.0 cdn.proxtube.com
 0.0.0.0 cdn.proxxy.site
 0.0.0.0 cdn.proxy.arrr.nl
 0.0.0.0 cdn.proxy.porn
@@ -12206,6 +12220,7 @@
 0.0.0.0 cdn.tubetrooper.com
 0.0.0.0 cdn.tubeu.net
 0.0.0.0 cdn.tubeum.com
+0.0.0.0 cdn.tubeunblock.org
 0.0.0.0 cdn.tubevector.com
 0.0.0.0 cdn.tubevintageporn.com
 0.0.0.0 cdn.tubewolf.com
@@ -12305,6 +12320,7 @@
 0.0.0.0 cdn.unblocksites2.com
 0.0.0.0 cdn.unblockstreaming.com
 0.0.0.0 cdn.unblocktunnel.com
+0.0.0.0 cdn.unblockvid.com
 0.0.0.0 cdn.unblockvideos.com
 0.0.0.0 cdn.unblockyoutube.co
 0.0.0.0 cdn.unblockyoutube.co.uk
@@ -13137,6 +13153,7 @@
 0.0.0.0 cdn.yezzclips.coma
 0.0.0.0 cdn.ygxiewp.angelfire.com
 0.0.0.0 cdn.yideosfilleschaudes.com
+0.0.0.0 cdn.yoasiansex.com
 0.0.0.0 cdn.yobatube.com
 0.0.0.0 cdn.yobt.com
 0.0.0.0 cdn.yobt.tv
@@ -13168,6 +13185,7 @@
 0.0.0.0 cdn.youngtiny.com
 0.0.0.0 cdn.youngxxxpics.com
 0.0.0.0 cdn.youporn.com
+0.0.0.0 cdn.youporn4.com
 0.0.0.0 cdn.youpornbook.com
 0.0.0.0 cdn.youporngay.com
 0.0.0.0 cdn.youporninhd.com
@@ -16612,6 +16630,7 @@
 0.0.0.0 hpjav.com
 0.0.0.0 hq-celebrity.com
 0.0.0.0 hq-celebrity.us.intellitxt.com
+0.0.0.0 hq-jav.com
 0.0.0.0 hq-sex-tube.com
 0.0.0.0 hq69.com
 0.0.0.0 hqasianxxx.com
@@ -17241,6 +17260,7 @@
 0.0.0.0 javdm.com
 0.0.0.0 javdude.com
 0.0.0.0 javeu.com
+0.0.0.0 javfind.com
 0.0.0.0 javfinder.com
 0.0.0.0 javfor.me
 0.0.0.0 javfree.org
@@ -17250,23 +17270,28 @@
 0.0.0.0 javhd720p.net
 0.0.0.0 javhdfree.net
 0.0.0.0 javhdx.tv
+0.0.0.0 javhihi.com
 0.0.0.0 javhq.net
 0.0.0.0 javleak.com
 0.0.0.0 javon.tv
 0.0.0.0 javonline.tv
+0.0.0.0 javporn.cc
 0.0.0.0 javportal.net
 0.0.0.0 javpub.me
 0.0.0.0 javsd.net
 0.0.0.0 javsin.com
 0.0.0.0 javst.net
 0.0.0.0 javstreaming.net
+0.0.0.0 javstreams.org
 0.0.0.0 javstreams.tv
 0.0.0.0 javtasty.com
 0.0.0.0 javtubehd.com
 0.0.0.0 javun.me
 0.0.0.0 javuns.com
+0.0.0.0 javur.com
 0.0.0.0 javure.reddit.com
 0.0.0.0 javus.net
+0.0.0.0 javxyz.com
 0.0.0.0 javzab.com
 0.0.0.0 jaxbug.info
 0.0.0.0 jaxpulse.com
@@ -17979,6 +18004,7 @@
 0.0.0.0 lightwork.info
 0.0.0.0 lilangels4u.50megs.com
 0.0.0.0 lilbabes.com
+0.0.0.0 lildaughter.com
 0.0.0.0 lilieetangelina.free.fr
 0.0.0.0 lilyc.reddit.com
 0.0.0.0 lilycarter.puba.com
@@ -18773,6 +18799,7 @@
 0.0.0.0 m.allretrotube.com
 0.0.0.0 m.allsexblogs.com
 0.0.0.0 m.allteeens.com
+0.0.0.0 m.alluc.ee
 0.0.0.0 m.allurecash.net
 0.0.0.0 m.allvirgins.com
 0.0.0.0 m.almostgay.com
@@ -19558,6 +19585,7 @@
 0.0.0.0 m.bdsmtubeporn.org
 0.0.0.0 m.bdsmtubevideos.com
 0.0.0.0 m.bdsmxxxmovies.com
+0.0.0.0 m.be88.net
 0.0.0.0 m.beachtoplist.com
 0.0.0.0 m.beasttracker.net
 0.0.0.0 m.beautiful-nude-teens-exposed.tumblr.com
@@ -22518,6 +22546,7 @@
 0.0.0.0 m.hpjav.com
 0.0.0.0 m.hq-celebrity.com
 0.0.0.0 m.hq-celebrity.us.intellitxt.com
+0.0.0.0 m.hq-jav.com
 0.0.0.0 m.hq-sex-tube.com
 0.0.0.0 m.hq69.com
 0.0.0.0 m.hqasianxxx.com
@@ -22919,6 +22948,7 @@
 0.0.0.0 m.javdm.com
 0.0.0.0 m.javdude.com
 0.0.0.0 m.javeu.com
+0.0.0.0 m.javfind.com
 0.0.0.0 m.javfinder.com
 0.0.0.0 m.javfor.me
 0.0.0.0 m.javfree.org
@@ -22928,22 +22958,27 @@
 0.0.0.0 m.javhd720p.net
 0.0.0.0 m.javhdfree.net
 0.0.0.0 m.javhdx.tv
+0.0.0.0 m.javhihi.com
 0.0.0.0 m.javhq.net
 0.0.0.0 m.javleak.com
 0.0.0.0 m.javon.tv
 0.0.0.0 m.javonline.tv
+0.0.0.0 m.javporn.cc
 0.0.0.0 m.javportal.net
 0.0.0.0 m.javpub.me
 0.0.0.0 m.javsd.net
 0.0.0.0 m.javsin.com
 0.0.0.0 m.javst.net
 0.0.0.0 m.javstreaming.net
+0.0.0.0 m.javstreams.org
 0.0.0.0 m.javstreams.tv
 0.0.0.0 m.javtasty.com
 0.0.0.0 m.javtubehd.com
 0.0.0.0 m.javun.me
 0.0.0.0 m.javuns.com
+0.0.0.0 m.javur.com
 0.0.0.0 m.javus.net
+0.0.0.0 m.javxyz.com
 0.0.0.0 m.javzab.com
 0.0.0.0 m.jaydenjaymes.puba.com
 0.0.0.0 m.jbcam.net
@@ -23522,6 +23557,7 @@
 0.0.0.0 m.lighthouseangels.net
 0.0.0.0 m.lilangels4u.50megs.com
 0.0.0.0 m.lilbabes.com
+0.0.0.0 m.lildaughter.com
 0.0.0.0 m.lilieetangelina.free.fr
 0.0.0.0 m.lilycarter.puba.com
 0.0.0.0 m.limetorrents.immunicity.date
@@ -24472,6 +24508,7 @@
 0.0.0.0 m.newalbumreleases.unblockmy.host
 0.0.0.0 m.newangelicseduction.com
 0.0.0.0 m.newbienudes.com
+0.0.0.0 m.newcooltube.com
 0.0.0.0 m.newestxxx.com
 0.0.0.0 m.newgayfuck.com
 0.0.0.0 m.newgirlpov.com
@@ -25173,6 +25210,7 @@
 0.0.0.0 m.porn8.com
 0.0.0.0 m.porn8.tv
 0.0.0.0 m.pornaccess.com
+0.0.0.0 m.pornaga.com
 0.0.0.0 m.pornalized.com
 0.0.0.0 m.pornaq.com
 0.0.0.0 m.pornarab.porn
@@ -25589,6 +25627,7 @@
 0.0.0.0 m.proxfree.pk
 0.0.0.0 m.proxite.eu
 0.0.0.0 m.proxo.org
+0.0.0.0 m.proxtube.com
 0.0.0.0 m.proxxy.site
 0.0.0.0 m.proxy.arrr.nl
 0.0.0.0 m.proxy.porn
@@ -27807,6 +27846,7 @@
 0.0.0.0 m.tubetrooper.com
 0.0.0.0 m.tubeu.net
 0.0.0.0 m.tubeum.com
+0.0.0.0 m.tubeunblock.org
 0.0.0.0 m.tubevector.com
 0.0.0.0 m.tubevintageporn.com
 0.0.0.0 m.tubewolf.com
@@ -27906,6 +27946,7 @@
 0.0.0.0 m.unblocksites2.com
 0.0.0.0 m.unblockstreaming.com
 0.0.0.0 m.unblocktunnel.com
+0.0.0.0 m.unblockvid.com
 0.0.0.0 m.unblockvideos.com
 0.0.0.0 m.unblockyoutube.co
 0.0.0.0 m.unblockyoutube.co.uk
@@ -28752,6 +28793,7 @@
 0.0.0.0 m.yezzclips.coma
 0.0.0.0 m.ygxiewp.angelfire.com
 0.0.0.0 m.yideosfilleschaudes.com
+0.0.0.0 m.yoasiansex.com
 0.0.0.0 m.yobatube.com
 0.0.0.0 m.yobt.com
 0.0.0.0 m.yobt.tv
@@ -28785,6 +28827,7 @@
 0.0.0.0 m.youngxxxpics.com
 0.0.0.0 m.youporn.com
 0.0.0.0 m.youporn.us.com
+0.0.0.0 m.youporn4.com
 0.0.0.0 m.youpornbook.com
 0.0.0.0 m.youporngay.com
 0.0.0.0 m.youporninhd.com
@@ -29686,6 +29729,7 @@
 0.0.0.0 media.allretrotube.com
 0.0.0.0 media.allsexblogs.com
 0.0.0.0 media.allteeens.com
+0.0.0.0 media.alluc.ee
 0.0.0.0 media.allurecash.net
 0.0.0.0 media.allvirgins.com
 0.0.0.0 media.almostgay.com
@@ -30471,6 +30515,7 @@
 0.0.0.0 media.bdsmtubeporn.org
 0.0.0.0 media.bdsmtubevideos.com
 0.0.0.0 media.bdsmxxxmovies.com
+0.0.0.0 media.be88.net
 0.0.0.0 media.beachtoplist.com
 0.0.0.0 media.beasttracker.net
 0.0.0.0 media.beautiful-nude-teens-exposed.tumblr.com
@@ -33429,6 +33474,7 @@
 0.0.0.0 media.hpjav.com
 0.0.0.0 media.hq-celebrity.com
 0.0.0.0 media.hq-celebrity.us.intellitxt.com
+0.0.0.0 media.hq-jav.com
 0.0.0.0 media.hq-sex-tube.com
 0.0.0.0 media.hq69.com
 0.0.0.0 media.hqasianxxx.com
@@ -33830,6 +33876,7 @@
 0.0.0.0 media.javdm.com
 0.0.0.0 media.javdude.com
 0.0.0.0 media.javeu.com
+0.0.0.0 media.javfind.com
 0.0.0.0 media.javfinder.com
 0.0.0.0 media.javfor.me
 0.0.0.0 media.javfree.org
@@ -33839,22 +33886,27 @@
 0.0.0.0 media.javhd720p.net
 0.0.0.0 media.javhdfree.net
 0.0.0.0 media.javhdx.tv
+0.0.0.0 media.javhihi.com
 0.0.0.0 media.javhq.net
 0.0.0.0 media.javleak.com
 0.0.0.0 media.javon.tv
 0.0.0.0 media.javonline.tv
+0.0.0.0 media.javporn.cc
 0.0.0.0 media.javportal.net
 0.0.0.0 media.javpub.me
 0.0.0.0 media.javsd.net
 0.0.0.0 media.javsin.com
 0.0.0.0 media.javst.net
 0.0.0.0 media.javstreaming.net
+0.0.0.0 media.javstreams.org
 0.0.0.0 media.javstreams.tv
 0.0.0.0 media.javtasty.com
 0.0.0.0 media.javtubehd.com
 0.0.0.0 media.javun.me
 0.0.0.0 media.javuns.com
+0.0.0.0 media.javur.com
 0.0.0.0 media.javus.net
+0.0.0.0 media.javxyz.com
 0.0.0.0 media.javzab.com
 0.0.0.0 media.jaydenjaymes.puba.com
 0.0.0.0 media.jbcam.net
@@ -34434,6 +34486,7 @@
 0.0.0.0 media.lighthouseangels.net
 0.0.0.0 media.lilangels4u.50megs.com
 0.0.0.0 media.lilbabes.com
+0.0.0.0 media.lildaughter.com
 0.0.0.0 media.lilieetangelina.free.fr
 0.0.0.0 media.lilycarter.puba.com
 0.0.0.0 media.limetorrents.immunicity.date
@@ -35371,6 +35424,7 @@
 0.0.0.0 media.newalbumreleases.unblockmy.host
 0.0.0.0 media.newangelicseduction.com
 0.0.0.0 media.newbienudes.com
+0.0.0.0 media.newcooltube.com
 0.0.0.0 media.newestxxx.com
 0.0.0.0 media.newgayfuck.com
 0.0.0.0 media.newgirlpov.com
@@ -36073,6 +36127,7 @@
 0.0.0.0 media.porn8.com
 0.0.0.0 media.porn8.tv
 0.0.0.0 media.pornaccess.com
+0.0.0.0 media.pornaga.com
 0.0.0.0 media.pornalized.com
 0.0.0.0 media.pornaq.com
 0.0.0.0 media.pornarab.porn
@@ -36490,6 +36545,7 @@
 0.0.0.0 media.proxfree.pk
 0.0.0.0 media.proxite.eu
 0.0.0.0 media.proxo.org
+0.0.0.0 media.proxtube.com
 0.0.0.0 media.proxxy.site
 0.0.0.0 media.proxy.arrr.nl
 0.0.0.0 media.proxy.porn
@@ -38710,6 +38766,7 @@
 0.0.0.0 media.tubetrooper.com
 0.0.0.0 media.tubeu.net
 0.0.0.0 media.tubeum.com
+0.0.0.0 media.tubeunblock.org
 0.0.0.0 media.tubevector.com
 0.0.0.0 media.tubevintageporn.com
 0.0.0.0 media.tubewolf.com
@@ -38810,6 +38867,7 @@
 0.0.0.0 media.unblocksites2.com
 0.0.0.0 media.unblockstreaming.com
 0.0.0.0 media.unblocktunnel.com
+0.0.0.0 media.unblockvid.com
 0.0.0.0 media.unblockvideos.com
 0.0.0.0 media.unblockyoutube.co
 0.0.0.0 media.unblockyoutube.co.uk
@@ -39657,6 +39715,7 @@
 0.0.0.0 media.yezzclips.coma
 0.0.0.0 media.ygxiewp.angelfire.com
 0.0.0.0 media.yideosfilleschaudes.com
+0.0.0.0 media.yoasiansex.com
 0.0.0.0 media.yobatube.com
 0.0.0.0 media.yobt.com
 0.0.0.0 media.yobt.tv
@@ -39690,6 +39749,7 @@
 0.0.0.0 media.youngxxxpics.com
 0.0.0.0 media.youporn.com
 0.0.0.0 media.youporn.us.com
+0.0.0.0 media.youporn4.com
 0.0.0.0 media.youpornbook.com
 0.0.0.0 media.youporngay.com
 0.0.0.0 media.youporninhd.com
@@ -40755,6 +40815,7 @@
 0.0.0.0 mobile.allsexblogs.com
 0.0.0.0 mobile.allsphere.info
 0.0.0.0 mobile.allteeens.com
+0.0.0.0 mobile.alluc.ee
 0.0.0.0 mobile.allurecash.net
 0.0.0.0 mobile.allvirgins.com
 0.0.0.0 mobile.almostgay.com
@@ -41602,6 +41663,7 @@
 0.0.0.0 mobile.bdsmtubeporn.org
 0.0.0.0 mobile.bdsmtubevideos.com
 0.0.0.0 mobile.bdsmxxxmovies.com
+0.0.0.0 mobile.be88.net
 0.0.0.0 mobile.beachtoplist.com
 0.0.0.0 mobile.beasttracker.net
 0.0.0.0 mobile.beatfiltering.com
@@ -45153,6 +45215,7 @@
 0.0.0.0 mobile.hpjav.com
 0.0.0.0 mobile.hq-celebrity.com
 0.0.0.0 mobile.hq-celebrity.us.intellitxt.com
+0.0.0.0 mobile.hq-jav.com
 0.0.0.0 mobile.hq-sex-tube.com
 0.0.0.0 mobile.hq69.com
 0.0.0.0 mobile.hqasianxxx.com
@@ -45626,6 +45689,7 @@
 0.0.0.0 mobile.javdm.com
 0.0.0.0 mobile.javdude.com
 0.0.0.0 mobile.javeu.com
+0.0.0.0 mobile.javfind.com
 0.0.0.0 mobile.javfinder.com
 0.0.0.0 mobile.javfor.me
 0.0.0.0 mobile.javfree.org
@@ -45635,22 +45699,27 @@
 0.0.0.0 mobile.javhd720p.net
 0.0.0.0 mobile.javhdfree.net
 0.0.0.0 mobile.javhdx.tv
+0.0.0.0 mobile.javhihi.com
 0.0.0.0 mobile.javhq.net
 0.0.0.0 mobile.javleak.com
 0.0.0.0 mobile.javon.tv
 0.0.0.0 mobile.javonline.tv
+0.0.0.0 mobile.javporn.cc
 0.0.0.0 mobile.javportal.net
 0.0.0.0 mobile.javpub.me
 0.0.0.0 mobile.javsd.net
 0.0.0.0 mobile.javsin.com
 0.0.0.0 mobile.javst.net
 0.0.0.0 mobile.javstreaming.net
+0.0.0.0 mobile.javstreams.org
 0.0.0.0 mobile.javstreams.tv
 0.0.0.0 mobile.javtasty.com
 0.0.0.0 mobile.javtubehd.com
 0.0.0.0 mobile.javun.me
 0.0.0.0 mobile.javuns.com
+0.0.0.0 mobile.javur.com
 0.0.0.0 mobile.javus.net
+0.0.0.0 mobile.javxyz.com
 0.0.0.0 mobile.javzab.com
 0.0.0.0 mobile.jaxbug.info
 0.0.0.0 mobile.jaxpulse.com
@@ -46286,6 +46355,7 @@
 0.0.0.0 mobile.lightwork.info
 0.0.0.0 mobile.lilangels4u.50megs.com
 0.0.0.0 mobile.lilbabes.com
+0.0.0.0 mobile.lildaughter.com
 0.0.0.0 mobile.lilieetangelina.free.fr
 0.0.0.0 mobile.lilycarter.puba.com
 0.0.0.0 mobile.limetorrents.immunicity.date
@@ -47364,6 +47434,7 @@
 0.0.0.0 mobile.newalbumreleases.unblockmy.host
 0.0.0.0 mobile.newangelicseduction.com
 0.0.0.0 mobile.newbienudes.com
+0.0.0.0 mobile.newcooltube.com
 0.0.0.0 mobile.neweb.gq
 0.0.0.0 mobile.newestxxx.com
 0.0.0.0 mobile.newgayfuck.com
@@ -48167,6 +48238,7 @@
 0.0.0.0 mobile.porn8.com
 0.0.0.0 mobile.porn8.tv
 0.0.0.0 mobile.pornaccess.com
+0.0.0.0 mobile.pornaga.com
 0.0.0.0 mobile.pornalized.com
 0.0.0.0 mobile.pornaq.com
 0.0.0.0 mobile.pornarab.porn
@@ -48665,6 +48737,7 @@
 0.0.0.0 mobile.proxpark.com
 0.0.0.0 mobile.proxssl.com
 0.0.0.0 mobile.proxtik.com
+0.0.0.0 mobile.proxtube.com
 0.0.0.0 mobile.proxxxy.eu
 0.0.0.0 mobile.proxxy.site
 0.0.0.0 mobile.proxy-2014.com
@@ -51426,6 +51499,7 @@
 0.0.0.0 mobile.tubetrooper.com
 0.0.0.0 mobile.tubeu.net
 0.0.0.0 mobile.tubeum.com
+0.0.0.0 mobile.tubeunblock.org
 0.0.0.0 mobile.tubevector.com
 0.0.0.0 mobile.tubevintageporn.com
 0.0.0.0 mobile.tubewolf.com
@@ -51606,6 +51680,7 @@
 0.0.0.0 mobile.unblockthis.win
 0.0.0.0 mobile.unblocktorrents.co.uk
 0.0.0.0 mobile.unblocktunnel.com
+0.0.0.0 mobile.unblockvid.com
 0.0.0.0 mobile.unblockvideos.com
 0.0.0.0 mobile.unblockweb.site
 0.0.0.0 mobile.unblockwebsense.com
@@ -52652,6 +52727,7 @@
 0.0.0.0 mobile.yezzclips.coma
 0.0.0.0 mobile.ygxiewp.angelfire.com
 0.0.0.0 mobile.yideosfilleschaudes.com
+0.0.0.0 mobile.yoasiansex.com
 0.0.0.0 mobile.yobatube.com
 0.0.0.0 mobile.yobt.com
 0.0.0.0 mobile.yobt.tv
@@ -52690,6 +52766,7 @@
 0.0.0.0 mobile.youngxxxpics.com
 0.0.0.0 mobile.youporn.com
 0.0.0.0 mobile.youporn.us.com
+0.0.0.0 mobile.youporn4.com
 0.0.0.0 mobile.youpornbook.com
 0.0.0.0 mobile.youporngay.com
 0.0.0.0 mobile.youporninhd.com
@@ -53392,6 +53469,7 @@
 0.0.0.0 newalbumreleases.unblockmy.host
 0.0.0.0 newangelicseduction.com
 0.0.0.0 newbienudes.com
+0.0.0.0 newcooltube.com
 0.0.0.0 neweb.gq
 0.0.0.0 newestxxx.com
 0.0.0.0 newgayfuck.com
@@ -54394,6 +54472,7 @@
 0.0.0.0 porn8.com
 0.0.0.0 porn8.tv
 0.0.0.0 pornaccess.com
+0.0.0.0 pornaga.com
 0.0.0.0 pornalized.com
 0.0.0.0 pornaq.com
 0.0.0.0 pornarab.porn
@@ -54923,6 +55002,7 @@
 0.0.0.0 proxpark.com
 0.0.0.0 proxssl.com
 0.0.0.0 proxtik.com
+0.0.0.0 proxtube.com
 0.0.0.0 proxxxy.eu
 0.0.0.0 proxxy.site
 0.0.0.0 proxy-2014.com
@@ -58036,6 +58116,7 @@
 0.0.0.0 tubetrooper.com
 0.0.0.0 tubeu.net
 0.0.0.0 tubeum.com
+0.0.0.0 tubeunblock.org
 0.0.0.0 tubevector.com
 0.0.0.0 tubevintageporn.com
 0.0.0.0 tubewolf.com
@@ -58228,6 +58309,7 @@
 0.0.0.0 unblockthis.win
 0.0.0.0 unblocktorrents.co.uk
 0.0.0.0 unblocktunnel.com
+0.0.0.0 unblockvid.com
 0.0.0.0 unblockvideos.com
 0.0.0.0 unblockweb.site
 0.0.0.0 unblockwebsense.com
@@ -59733,6 +59815,7 @@
 0.0.0.0 www.allsexblogs.com
 0.0.0.0 www.allsphere.info
 0.0.0.0 www.allteeens.com
+0.0.0.0 www.alluc.ee
 0.0.0.0 www.allurecash.net
 0.0.0.0 www.allvirgins.com
 0.0.0.0 www.almostgay.com
@@ -60576,6 +60659,7 @@
 0.0.0.0 www.bdsmtubeporn.org
 0.0.0.0 www.bdsmtubevideos.com
 0.0.0.0 www.bdsmxxxmovies.com
+0.0.0.0 www.be88.net
 0.0.0.0 www.beachtoplist.com
 0.0.0.0 www.beasttracker.net
 0.0.0.0 www.beatfiltering.com
@@ -64062,6 +64146,7 @@
 0.0.0.0 www.hpjav.com
 0.0.0.0 www.hq-celebrity.com
 0.0.0.0 www.hq-celebrity.us.intellitxt.com
+0.0.0.0 www.hq-jav.com
 0.0.0.0 www.hq-sex-tube.com
 0.0.0.0 www.hq69.com
 0.0.0.0 www.hqasianxxx.com
@@ -64518,6 +64603,7 @@
 0.0.0.0 www.javdm.com
 0.0.0.0 www.javdude.com
 0.0.0.0 www.javeu.com
+0.0.0.0 www.javfind.com
 0.0.0.0 www.javfinder.com
 0.0.0.0 www.javfor.me
 0.0.0.0 www.javfree.org
@@ -64527,22 +64613,27 @@
 0.0.0.0 www.javhd720p.net
 0.0.0.0 www.javhdfree.net
 0.0.0.0 www.javhdx.tv
+0.0.0.0 www.javhihi.com
 0.0.0.0 www.javhq.net
 0.0.0.0 www.javleak.com
 0.0.0.0 www.javon.tv
 0.0.0.0 www.javonline.tv
+0.0.0.0 www.javporn.cc
 0.0.0.0 www.javportal.net
 0.0.0.0 www.javpub.me
 0.0.0.0 www.javsd.net
 0.0.0.0 www.javsin.com
 0.0.0.0 www.javst.net
 0.0.0.0 www.javstreaming.net
+0.0.0.0 www.javstreams.org
 0.0.0.0 www.javstreams.tv
 0.0.0.0 www.javtasty.com
 0.0.0.0 www.javtubehd.com
 0.0.0.0 www.javun.me
 0.0.0.0 www.javuns.com
+0.0.0.0 www.javur.com
 0.0.0.0 www.javus.net
+0.0.0.0 www.javxyz.com
 0.0.0.0 www.javzab.com
 0.0.0.0 www.jaxbug.info
 0.0.0.0 www.jaxpulse.com
@@ -65177,6 +65268,7 @@
 0.0.0.0 www.lightwork.info
 0.0.0.0 www.lilangels4u.50megs.com
 0.0.0.0 www.lilbabes.com
+0.0.0.0 www.lildaughter.com
 0.0.0.0 www.lilieetangelina.free.fr
 0.0.0.0 www.lilycarter.puba.com
 0.0.0.0 www.limetorrents.immunicity.date
@@ -66258,6 +66350,7 @@
 0.0.0.0 www.newalbumreleases.unblockmy.host
 0.0.0.0 www.newangelicseduction.com
 0.0.0.0 www.newbienudes.com
+0.0.0.0 www.newcooltube.com
 0.0.0.0 www.neweb.gq
 0.0.0.0 www.newestxxx.com
 0.0.0.0 www.newgayfuck.com
@@ -67055,6 +67148,7 @@
 0.0.0.0 www.porn8.com
 0.0.0.0 www.porn8.tv
 0.0.0.0 www.pornaccess.com
+0.0.0.0 www.pornaga.com
 0.0.0.0 www.pornalized.com
 0.0.0.0 www.pornaq.com
 0.0.0.0 www.pornarab.porn
@@ -67551,6 +67645,7 @@
 0.0.0.0 www.proxpark.com
 0.0.0.0 www.proxssl.com
 0.0.0.0 www.proxtik.com
+0.0.0.0 www.proxtube.com
 0.0.0.0 www.proxxxy.eu
 0.0.0.0 www.proxxy.site
 0.0.0.0 www.proxy-2014.com
@@ -70283,6 +70378,7 @@
 0.0.0.0 www.tubetrooper.com
 0.0.0.0 www.tubeu.net
 0.0.0.0 www.tubeum.com
+0.0.0.0 www.tubeunblock.org
 0.0.0.0 www.tubevector.com
 0.0.0.0 www.tubevintageporn.com
 0.0.0.0 www.tubewolf.com
@@ -70463,6 +70559,7 @@
 0.0.0.0 www.unblockthis.win
 0.0.0.0 www.unblocktorrents.co.uk
 0.0.0.0 www.unblocktunnel.com
+0.0.0.0 www.unblockvid.com
 0.0.0.0 www.unblockvideos.com
 0.0.0.0 www.unblockweb.site
 0.0.0.0 www.unblockwebsense.com
@@ -71496,6 +71593,7 @@
 0.0.0.0 www.yezzclips.coma
 0.0.0.0 www.ygxiewp.angelfire.com
 0.0.0.0 www.yideosfilleschaudes.com
+0.0.0.0 www.yoasiansex.com
 0.0.0.0 www.yobatube.com
 0.0.0.0 www.yobt.com
 0.0.0.0 www.yobt.tv
@@ -71534,6 +71632,7 @@
 0.0.0.0 www.youngxxxpics.com
 0.0.0.0 www.youporn.com
 0.0.0.0 www.youporn.us.com
+0.0.0.0 www.youporn4.com
 0.0.0.0 www.youpornbook.com
 0.0.0.0 www.youporngay.com
 0.0.0.0 www.youporninhd.com
@@ -71996,6 +72095,7 @@
 0.0.0.0 yiff.reddit.com
 0.0.0.0 yiffcomics.reddit.com
 0.0.0.0 yiffgif.reddit.com
+0.0.0.0 yoasiansex.com
 0.0.0.0 yobatube.com
 0.0.0.0 yobt.com
 0.0.0.0 yobt.tv
@@ -72038,6 +72138,7 @@
 0.0.0.0 youngxxxpics.com
 0.0.0.0 youporn.com
 0.0.0.0 youporn.us.com
+0.0.0.0 youporn4.com
 0.0.0.0 youpornbook.com
 0.0.0.0 youporngay.com
 0.0.0.0 youporninhd.com
