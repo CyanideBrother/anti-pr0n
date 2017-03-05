@@ -56,5 +56,5 @@
   
 **II-** Add to browser this addon --> https://chrome.google.com/webstore/detail/block-site/eiimnmioipafcokbfikbljfdeojpcgbh  
 - Go to 'Block site Preferences' and click 'Import list from CSV' --> select chromium_based.csv  --> then click 'Import'  
-- Go to 'Other' Tab and Disable 'Allow sending anonymous statistics?'
+- Go to 'Other' Tab and Disable 'Allow sending anonymous statistics?'  
 # **Enjoy!**
