@@ -34,7 +34,7 @@
   
 **II-** Reboot Android  
   
-**III-** Download and install Override DNS (http://www53.zippyshare.com/v/7Y5I0Fzy/file.html) then  
+**III-** Download and install Override DNS (http://www7.zippyshare.com/v/B8jF0YCJ/file.html) then  
 - set OpenDNS-FamilyShield and Apply  
 - untick "DNS change notifications"  
 - set random PIN and forget about it.  
