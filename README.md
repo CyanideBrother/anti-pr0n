@@ -27,7 +27,7 @@
   
 # **[ANDROID]** *root required  
 
-**I-** Download and install AdAway (https://f-droid.org/repo/org.adaway_55.apk) then  
+**I-** Download and install AdAway (https://f-droid.org/repo/org.adaway_57.apk) then  
 - add new Hosts source (https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts)  
 - change redirection IP to 0.0.0.0  
 - click "Download Files and apply ad blocking"  
