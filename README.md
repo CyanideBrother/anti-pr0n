@@ -27,14 +27,14 @@
   
 # **[ANDROID]** *root required  
 
-**I-** Download and install AdAway (https://f-droid.org/repo/org.adaway_57.apk) then  
+**I-** Download and install AdAway (https://f-droid.org/repo/org.adaway_60.apk) then  
 - add new Hosts source (https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts)  
 - change redirection IP to 0.0.0.0  
 - click "Download Files and apply ad blocking"  
   
 **II-** Reboot Android  
   
-**III-** Download and install Override DNS (http://www81.zippyshare.com/v/ARoDA9dt/file.html) then  
+**III-** Download and install Override DNS (https://www.upload.ee/files/7465035/Override_DNS.ver.v5.3.0-0-g164e2f07.apk.html) then  
 - set OpenDNS-FamilyShield and Apply  
 - untick "DNS change notifications"  
 - set random PIN and forget about it.  
