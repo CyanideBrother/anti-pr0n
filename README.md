@@ -2,7 +2,7 @@
 # VIDEO: [YOUTUBE](https://www.youtube.com/watch?v=PcfmGIh7lYU) | [VIMEO](https://vimeo.com/171017589) | [DAILYMOTION](http://www.dailymotion.com/video/x4gwtuj)
 # **[WINDOWS]** *administrator required  
   
-**I-** Download and install Acrylic DNS Proxy (because it's faster than system HOSTS) (https://sourceforge.net/projects/acrylic/files/Acrylic/0.9.32/Acrylic.exe/download)  
+**I-** Download and install Acrylic DNS Proxy (because it's faster than system HOSTS) (https://sourceforge.net/projects/acrylic/files/latest/download)  
   
 **II-** Edit Acrylic Configuration File  
 
@@ -14,7 +14,7 @@ __OpenDNS FamilyShield (block only adult content)
 - TertiaryServerAddress=208.67.222.123
 - QuaternaryServerAddress=208.67.220.123
   
-**III-** Add new hosts to Acrylic Hosts File (https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts)  
+**III-** Add new hosts to Acrylic Hosts File (https://raw.githubusercontent.com/CyanideBrother/anti-pr0n/master/hosts_acrylic)  
   
 **IV-** Change DNS to 127.0.0.1 on:  
 - Ethernet  
